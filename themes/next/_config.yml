@@ -397,7 +397,7 @@ valine:
 
 # Support for youyan comments system.
 # You can get your uid from http://www.uyan.cc
-#youyan_uid: your uid
+youyan_uid: 2156892
 
 # Support for LiveRe comments system.
 # You can get your uid from https://livere.com/insight/myCode (General web site)
@@ -531,15 +531,15 @@ vkontakte_api:
 rating:
   enable: false
   id:     #<app_id>
-  color:  fc6423
+  color:  fc6423`
 # ---------------------------------------------------------------
 
 # Show number of visitors to each article.
 # You can visit https://leancloud.cn get AppID and AppKey.
 leancloud_visitors:
-  enable: false
-  app_id: #<app_id>
-  app_key: #<app_key>
+  enable: true
+  app_id: 8Q7LOt1Q8Iw1HKbXWdazeHRW-gzGzoHsz
+  app_key: i2BJQMu9PC5HRJO93fUnCeI9
 
 # Another tool to show number of visitors to each article.
 # visit https://console.firebase.google.com/u/0/ to get apiKey and projectId
